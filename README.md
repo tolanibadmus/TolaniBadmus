@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @TolaniBadmus
-- 👀 I’m interested in User research and user interface design 
-- 🌱 I’m currently learning animation effect and types of research 
-- 💞️ I’m looking to collaborate on Fintech,healthtech  Saas and any other fun project 
-- 📫 How to reach me Badmustolani10@gmail.com 
+- 👋 Hi, I am Kaosarat Badmus.
+- 👀 I am a Product Designer transitioning into Software Development.
+- 💞️ I am curreently working on some passion projects that I am putting on here. 
+- 📫 Reach me on badmustolani10@gmail.com 
 
-<!---
-TolaniBadmus/TolaniBadmus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
